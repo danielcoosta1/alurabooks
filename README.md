@@ -5,5 +5,5 @@
 
 <H2>Projeto Figma</H2>
 
-[![Figma](https://www.figma.com/community/file/1410343907710342267)
+[![Figma](https://img.icons8.com/color/22/000000/figma.png)](https://www.figma.com/community/file/1410343907710342267)
 
