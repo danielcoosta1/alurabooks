@@ -1,0 +1,16 @@
+hr {
+    margin: 0;
+}
+
+
+.rodapé {
+    background-color: var(--cinza);
+    color: var(--preto);
+    font-size: .8rem;
+    font-weight: 300;
+}
+
+.rodapé__texto{
+    padding: 1.5em;
+}
+
