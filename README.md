@@ -7,5 +7,4 @@
 
 [![Figma](https://img.icons8.com/color/22/000000/figma.png)](https://www.figma.com/community/file/1410343907710342267)
 
-<h2>Projeto Desktop</h2>
-<img src="https://github.com/danielcoosta1/AluraBooks/blob/main/img/desktop.PNG?raw=true">
+
